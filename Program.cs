@@ -10,8 +10,8 @@ namespace GuessTheNumber
     {
         static async Task Main(string[] args)
         {
-            var a = new Permutations();
-            var b = a.permutations();
+            var a = new Subsets();
+            var b = a.subsets();
             foreach (var permutation in b)
             {
                 Console.WriteLine(string.Join(", ", permutation));
