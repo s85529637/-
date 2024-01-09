@@ -8,5 +8,15 @@ namespace ConsoleApp1
 {
     public class InvertBinaryTree
     {
+        public void aa()
+        {
+            var aa = "text";
+            //convert to base64
+        }
+
+
+        
     }
+
+   
 }
