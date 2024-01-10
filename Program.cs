@@ -17,12 +17,15 @@ class Program
         //{
         //    Console.WriteLine(string.Join(", ", permutation));
         //}
-        Cache cache = new Cache();
-
-        cache.CacheMethod();
+        var a = new TaskAll();
+        a.TaskWatiaAll();
+      
     }
 
 
 }
+
+
+
 
 
